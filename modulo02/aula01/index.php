@@ -1,7 +1,7 @@
 <?php
 
 
-init_set('display_errors');
+init_set('display_errors',1);
 
 include 'Aluno.php';
 include 'Curso.php';
